@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AloneFyX
-- 👀 I’m interested in ...selling
+- 👀 I’m interested in ..Buisness
 - 🌱 I’m currently learning .. python.
-- 📫 How to reach me ... discord - alone_io
+- 📫 How to Contect me ... discord - alone_io7
 
 <!---
 AloneFyX/AloneFyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
