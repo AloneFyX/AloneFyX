@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @AloneFyX
-- 👀 I’m interested in ..Buisness
-- 🌱 I’m currently learning .. python.
-- 📫 How to Contect me ... discord - alone_io7
+# 👋 Hey there, I’m AloneFyX!
 
-<!---
-AloneFyX/AloneFyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🐍 Python Developer & Automation Enthusiast  
+- 💼 Interested in building tools for business, automation, and smart workflows  
+- 📚 Currently leveling up my skills in advanced Python, APIs, and stealth automation  
+- 🧩 I love solving real-world problems with code and exploring new tech  
+- 📫 Reach me on **Telegra**: `alone_fy`
+
+---
+
+> *Always building, always learning.*
